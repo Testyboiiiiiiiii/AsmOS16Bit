@@ -14,3 +14,8 @@ use a QEMU based emulator
 (search up a tutorial, i didnt install it either)
 or if you dont want to install a VM app, go to copy.sh/v86 and add the "floppy" (bin)
 ### if you are a dinosaur, dont ask me to help, but if you collected them SURELY you know how to write to them! (also dont forget to pad it to 1,474,560 (1.44MB) bytes)
+
+# PROGRESS
+**RELEASE 1**
+░░░░░░░ to release 2
+**view in Beta**
